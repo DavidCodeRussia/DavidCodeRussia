@@ -10,6 +10,11 @@
 
 **Frontend**: react(v18 and using hooks), react-router-dom, react-slick, redux, firebase, slick-carousel, styled-components  
  [code](https://github.com/DavidCodeRussia/disney-clone)
+ 
+ ### ✔ [Tesla Clone ][tesla-clone]
+
+**Frontend**: react(v18 and using hooks), react-router-dom, redux, react-redux, react-reveal, typescript, firebase, styled-components  
+ [code](https://github.com/DavidCodeRussia/tesla-clone)
 
 ### [🔻 More projects here...](https://github.com/DavidCodeRussia?tab=repositories)
 
@@ -51,3 +56,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcoderussia&layout=compact)](https://github.com/davidcoderussia/github-readme-stats)
 
 [disney-clone]: https://disney-88676.web.app/
+[tesla-clone]: https://tesla-89736.web.app/
