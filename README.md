@@ -1,8 +1,4 @@
-## 👋 Hello world, my name is David
-
-## 🌍 Contacts:
-
-[![Telegram](https://camo.githubusercontent.com/b0028fcb0e664a77fc5c0544860d225d717fe730c6344a021256f8dbc754411a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3236413545342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d)](https://t.me/davidNtyty "Telegram channel")
+## Hello guys, my name is David
 
 ## Projects:
 
