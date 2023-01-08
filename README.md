@@ -5,7 +5,9 @@
 ### ✔ [Disney Clone ][disney-clone]
 
 **Frontend**: react(v18 and using hooks), react-router-dom, react-slick, redux, firebase, slick-carousel, styled-components  
- [code](https://github.com/DavidCodeRussia/disney-clone)
+ [code](https://github.com/DavidCodeRussia/disney-clone) . 
+ 
+ **Backend**: for this application hosted in sleep-mode. Which means if you first time open website, you may have to wait your data about 1 minute. When first request gone successfully it'll be work like usually.
  
  ### ✔ [Tesla Clone ][tesla-clone]
 
