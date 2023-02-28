@@ -18,7 +18,7 @@
 
 ## :computer: My Development Stack:
 
-- React.js(hooks)
+- React.js(hooks + base practice with classes components)
 - JavaScript(ES6+)
 - TypeScript,
 - Next.js(CSR, SSR, SSG, ISR)
