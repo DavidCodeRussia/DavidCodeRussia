@@ -22,15 +22,19 @@
 - JavaScript(ES6+)
 - TypeScript,
 - Next.js(CSR, SSR, SSG, ISR)
-- Redux
+- Redux, Redux Toolkit
 - Redux-Thunk, Redux-Saga,
 - React-query
 - HTML5
 - CSS/SCSS/SASS/CSS-modules(Flex, Grid, Responsive)
-- Styled-components
+- MaterialUI, AntDesign, Styled-components
 - Formik, React-hook-form, Yup
 - Git/GitHub(Git Flow)
 - Postman
+- WebSocket
+- dayjs
+- react-slick
+- etc
 
 ## My skills and tools:
 
