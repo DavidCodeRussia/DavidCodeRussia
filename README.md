@@ -34,6 +34,9 @@
 - WebSocket
 - dayjs
 - react-slick
+- docxtemplater, file-saver
+- react-hot-toast
+- Bootstrap
 - etc
 
 ## My skills and tools:
