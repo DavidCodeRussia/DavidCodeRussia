@@ -21,6 +21,7 @@
 - React.js(hooks + base practice with classes components)
 - JavaScript(ES6+)
 - TypeScript,
+- Webpack, Eslint, Prettier
 - Next.js(CSR, SSR, SSG, ISR)
 - Redux, Redux Toolkit
 - Redux-Thunk, Redux-Saga,
