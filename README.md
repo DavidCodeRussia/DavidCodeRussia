@@ -20,7 +20,7 @@
 
 - React.js(hooks + base practice with classes components)
 - JavaScript(ES6+)
-- TypeScript
+- TypeScript, PropTypes
 - Node, GraphQL, Apollo, MLab, Mangus
 - Webpack, Eslint, Prettier
 - Next.js(CSR, SSR, SSG, ISR)
