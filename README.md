@@ -30,14 +30,16 @@
 - CSS/SCSS/SASS/CSS-modules(Flex, Grid, Responsive)
 - MaterialUI, AntDesign, Styled-components
 - Formik, React-hook-form, Yup
-- Git/GitHub(Git Flow)
-- Postman
 - WebSocket
 - dayjs
-- react-slick
 - docxtemplater, file-saver
+- react-slick
 - react-hot-toast
+- react-swipeable-views, recompose
 - Bootstrap
+- Git/GitHub(Git Flow)
+- Postman
+- Node, GraphQL, Apollo, MLab, Mangus
 - etc
 
 ## My skills and tools:
