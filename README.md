@@ -2,8 +2,6 @@
 
 ## 🌍 Contact me:
 
-[<img alt="" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=telegram"/>][tg]
-
 📧 **delaemdela333@mail.ru**
 
 ## :computer: My Development Stack:
@@ -55,4 +53,3 @@
 
 [disney-clone]: https://disney-88676.web.app/
 [tesla-clone]: https://tesla-89736.web.app/
-[tg]: https://t.me/web_dev_3000
