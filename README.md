@@ -1,24 +1,14 @@
-## Hello guys, my name is David
+# 👋 Hi there, my name is David.
 
-## Projects:
+## 🌍 Contact me:
 
-### ✔ [Disney Clone ][disney-clone]
+[<img alt="" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=telegram"/>][tg]
 
-**Frontend**: react(v18 and using hooks), react-router-dom, react-slick, redux, firebase, slick-carousel, styled-components  
- [code](https://github.com/DavidCodeRussia/disney-clone) . 
- 
- **Backend**: for this application hosted in sleep-mode. Which means if you first time open website, you may have to wait your data about 1 minute. When first request gone successfully it'll be work like usually.
- 
- ### ✔ [Tesla Clone ][tesla-clone]
-
-**Frontend**: react(v18 and using hooks), react-router-dom, redux, react-redux, react-reveal, typescript, firebase, styled-components  
- [code](https://github.com/DavidCodeRussia/tesla-clone)
-
-### [🔻 More projects here...](https://github.com/DavidCodeRussia?tab=repositories)
+📧 **delaemdela333@mail.ru**
 
 ## :computer: My Development Stack:
 
-- React.js(hooks + base practice with classes components)
+- React.js(hooks)
 - JavaScript(ES6+)
 - TypeScript, PropTypes
 - Node, GraphQL, Apollo, MLab, Mangus
@@ -65,3 +55,4 @@
 
 [disney-clone]: https://disney-88676.web.app/
 [tesla-clone]: https://tesla-89736.web.app/
+[tg]: https://t.me/web_dev_3000
