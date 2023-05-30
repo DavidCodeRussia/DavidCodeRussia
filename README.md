@@ -4,12 +4,30 @@
 
 📧 **delaemdela333@mail.ru**
 
+## Projects:
+
+### ✔ [Disney Clone ][disney-clone]
+
+**Frontend**: react(v18 and using hooks), react-router-dom, react-slick, redux, firebase, slick-carousel, styled-components  
+ [code](https://github.com/DavidCodeRussia/disney-clone) . 
+ 
+ **Backend**: for this application hosted in sleep-mode. Which means if you first time open website, you may have to wait your data about 1 minute. When first request gone successfully it'll be work like usually.
+ 
+ ### ✔ [Tesla Clone ][tesla-clone]
+
+**Frontend**: react(v18 and using hooks), react-router-dom, redux, react-redux, react-reveal, typescript, firebase, styled-components  
+ [code](https://github.com/DavidCodeRussia/tesla-clone)
+
+### [🔻 More projects here...](https://github.com/DavidCodeRussia?tab=repositories)
+
 ## :computer: My Development Stack:
 
-- React.js(hooks)
+- React.js(hooks + base practice with classes components)
 - JavaScript(ES6+)
 - TypeScript, PropTypes
-- Node, GraphQL, Apollo, MLab, Mangus
+- OOP, DRY, KISS, SOLID
+- DDD (Domain Driven Design) 
+- GraphQL
 - Webpack, Eslint, Prettier
 - Next.js(CSR, SSR, SSG, ISR)
 - Redux, Redux Toolkit
