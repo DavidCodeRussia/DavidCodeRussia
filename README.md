@@ -27,6 +27,8 @@
 - TypeScript, PropTypes
 - OOP, DRY, KISS, SOLID
 - DDD (Domain Driven Design) 
+- Git/GitHub(Git Flow)
+- Postman 
 - GraphQL
 - Webpack, Eslint, Prettier
 - Next.js(CSR, SSR, SSG, ISR)
@@ -44,8 +46,6 @@
 - react-hot-toast
 - react-swipeable-views, recompose
 - Bootstrap
-- Git/GitHub(Git Flow)
-- Postman
 - etc
 
 ## My skills and tools:
